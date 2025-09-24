@@ -1,3 +1,6 @@
 streamlit
-streamlit-webrtc
-
+streamlit-mic-recorder
+openai
+python-dotenv
+transformers
+torch
