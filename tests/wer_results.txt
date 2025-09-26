@@ -1,0 +1,25 @@
+This Word Error Rate was carried out by running the python command below (within tests directory):
+
+pytest -s -v test_wer.py
+
+=========================================================================================== test session starts ===========================================================================================
+platform linux -- Python 3.12.1, pytest-8.4.1, pluggy-1.6.0 -- /usr/local/py-utils/venvs/pytest/bin/python
+cachedir: .pytest_cache
+rootdir: /workspaces/Omani-therapist-voice/tests
+plugins: anyio-4.11.0, langsmith-0.4.31
+collected 1 item                                                                                                                                                                                          
+
+test_wer.py::test_wer_for_audio_transcript_pairs WER for audio_sample_1.wav vs transcript1.txt: 0.0940
+WER for audio_sample_2.wav vs transcript2.txt: 0.1129
+WER for audio_sample_3.wav vs transcript3.txt: 0.0958
+WER for audio_sample_4.wav vs transcript4.txt: 0.0599
+WER for audio_sample_5.wav vs transcript5.txt: 0.1841
+Final WER Results:
+WER for audio_sample_1.wav vs transcript1.txt: 0.0940
+WER for audio_sample_2.wav vs transcript2.txt: 0.1129
+WER for audio_sample_3.wav vs transcript3.txt: 0.0958
+WER for audio_sample_4.wav vs transcript4.txt: 0.0599
+WER for audio_sample_5.wav vs transcript5.txt: 0.1841
+PASSED
+
+====================================================================================== 1 passed in 87.08s (0:01:27) =======================================================================================

@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "user": "أنا حزين جدًا وما أقدر أنام.",
+      "context": "User is expressing sadness and insomnia, likely depression symptoms.",
+      "response": "أنا آسف إنك تشعر بهالطريقة. في عُمان، يمكنك الاتصال بمستشفى المسارة على 2487 3268 للحصول على مساعدة متخصصة. جرب تمارين التنفس العميق: استلقِ وخذ نفسًا عميقًا لـ4 ثوانٍ، احبسه لـ4، أخرجه لـ4."
+    },
+    {
+      "user": "كيف أتعامل مع القلق في العمل؟",
+      "context": "User seeking anxiety management tips, incorporate CBT from KB.",
+      "response": "القلق شائع، خاصة في بيئة العمل. جرب تقنية CBT: حدد الفكرة السلبية، ثم تحداها بأدلة إيجابية. في الخليج، موارد مثل تمارين الاسترخاء متوفرة في gult_region_resources. إذا استمر، استشر طبيبًا نفسيًا في مسقط."
+    },
+    {
+      "user": "أشعر بالوحدة في مسقط.",
+      "context": "Loneliness, suggest cultural resources.",
+      "response": "الوحدة صعبة، لكن في عُمان هناك مجتمعات داعمة. انظر إلى cultural_resources للأنشطة الثقافية. جرب التواصل مع أصدقاء أو عائلة، أو اتصل بخدمات الصحة النفسية على 2487 3983."
+    },
+    {
+      "user": "ما هي تمارين CBT؟",
+      "context": "Direct query on CBT exercises from KB.",
+      "response": "تمارين CBT تشمل تتبع الأفكار: اكتب فكرتك السلبية، ثم أعد صياغتها إيجابيًا. مثال: 'أنا فاشل' -> 'أنا ناجح في جوانب أخرى'. انظر cbt_exercises لمزيد."
+    }
+  ],
+  "best_practices": {
+    "empathy_first": "Always start with empathy: 'أنا أفهم إن هذا صعب عليك.'",
+    "no_diagnosis": "Never diagnose: Suggest professional help instead.",
+    "cultural_sensitivity": "Use Omani dialect words like 'ياخي' for relatability, reference local resources.",
+    "encourage_help": "Always include emergency contacts if risk detected."
+  }
+}

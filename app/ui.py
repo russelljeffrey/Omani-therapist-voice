@@ -1,22 +1,32 @@
 import streamlit as st
-from stt_pipeline import render_mic_recorder
+from app.stt_pipeline import render_mic_recorder
+from app.crisis_toolchain import get_session_id
 
 def consent_banner():
+    """Render consent banner and manage consent state."""
     st.markdown("## 🛡️ Consent & Disclosure")
     st.info(
         "This AI chatbot is **not a substitute for professional therapy**.\n\n"
         "Your voice may be processed for analysis. "
         "Data will only be stored if you consent."
     )
-
-    consent = st.checkbox(
+    
+    if "consent" not in st.session_state:
+        st.session_state.consent = False
+    
+    st.session_state.consent = st.checkbox(
         "I consent to continue and agree that this is not a substitute for professional therapy.",
-        value=False
+        value=st.session_state.consent
     )
-    return consent
+    
+    if st.session_state.consent:
+        if "recorder_output" in st.session_state:
+            st.session_state.recorder_output = None
+    
+    return st.session_state.consent
 
 def emergency_resources():
-    st.error("❌ Consent not given. Redirected to emergency support:")
+    """Display emergency resources."""
     st.markdown("### Ministry of Health (MOH)")
     st.markdown("- **General Adult Psychiatry:** +968 2487 3127")
     st.markdown("- **Child & Adolescence Psychiatry:** +968 2487 3127")
@@ -37,31 +47,47 @@ def emergency_resources():
     st.info("🚨 Immediate emergency? Call Royal Oman Police / Ambulance: 9999.")
 
 def audio_input():
-    """Render mic recorder and display chat history."""
-    st.success("✅ Consent given. Ready to start.")
-    st.markdown("Click on **START** to begin speaking.")
-    
+    """Render audio input UI and return chat history."""
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
+    if "audio_history" not in st.session_state:
+        st.session_state.audio_history = []  # Store (type, audio_bytes, transcript) tuples
+    if "is_processing" not in st.session_state:
+        st.session_state.is_processing = False
     
-    audio = render_mic_recorder()
+    # session ID
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = get_session_id()
+    session_id = st.session_state.session_id
+    st.markdown(f"**Session ID**: {session_id}")
     
-    if audio:
-        st.audio(audio['bytes'], format="audio/webm")
-    
-    st.info("Click on **STOP** to end the recording.")
-    
-    st.subheader("Chat History")
-    for msg in st.session_state.chat_history:
-        if msg.startswith("User:"):
-            st.write(f"**You:** {msg[6:]}")
-        else:
-            st.write(f"**Bot:** {msg[5:]}")
+    if st.session_state.consent:
+        st.success("✅ Consent given. Ready to start.")
+        st.markdown("Click on **START** to begin speaking.")
+        
+        with st.container():
+            render_mic_recorder()
+        
+        # Display chat history + audio playback
+        st.markdown("### Conversation History")
+        for i, entry in enumerate(st.session_state.chat_history):
+            if entry.startswith("User:"):
+                transcript = entry.replace("User: ", "")
+                st.markdown(f"**You**: {transcript}")
+
+                for audio_type, audio_bytes, audio_transcript in st.session_state.audio_history:
+                    if audio_type == "user" and audio_transcript == transcript:
+                        st.audio(audio_bytes, format="audio/webm")
+            elif entry.startswith("Bot:"):
+                transcript = entry.replace("Bot: ", "")
+                st.markdown(f"**Bot**: {transcript}")
+
+                for audio_type, audio_bytes, audio_transcript in st.session_state.audio_history:
+                    if audio_type == "bot" and audio_transcript == transcript:
+                        st.audio(audio_bytes, format="audio/mp3")
     
     return st.session_state.chat_history
 
 def display_latest_audio():
-    """Display the latest recorded audio."""
-    if "last_audio" in st.session_state and st.session_state.last_audio:
-        st.subheader("Latest Recording")
-        st.audio(st.session_state.last_audio, format="audio/webm")
+    """Placeholder function, no longer needed as audio is shown in chat history."""
+    pass

@@ -4,3 +4,15 @@ openai
 python-dotenv
 transformers
 torch
+langchain
+langchain-openai
+langchain-anthropic
+langgraph
+langsmith
+chromadb
+langchain-chroma
+pypdf
+tiktoken
+anthropic
+jiwer
+pytest

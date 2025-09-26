@@ -1,82 +1,97 @@
-from transformers import pipeline
-import logging
-import streamlit as st
 import uuid
+import logging
+import os
+import json
+import re
+import streamlit as st
+from langchain_openai import ChatOpenAI
+from langchain.prompts import PromptTemplate
+from app.models.emotion_detector.detector import detect_emotions
 
 logging.basicConfig(
     filename="crisis_log.txt",
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - Session: %(session_id)s - %(message)s"
+    format="%(asctime)s - %(levelname)s - Session: %(session_id)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
 )
 
-CRISIS_LABEL_MAPPING = {
-    "LABEL_0": "Low / No Risk",
-    "LABEL_1": "High Risk",
-    "low_risk": "Low / No Risk",
-    "medium_risk": "Medium Risk",
-    "high_risk": "High Risk",
-    "suicide": "High Risk",
-    "not_suicide": "Low / No Risk"
-}
-
-def load_crisis_detector():
-    """Load the crisis detection model."""
-    try:
-        detector = pipeline("text-classification", model="sentinet/suicidality", framework="pt")
-        return detector
-    except Exception as e:
-        logging.error(f"Error loading crisis detector: {str(e)}", extra={"session_id": get_session_id()})
-        return None
-
-crisis_detector = load_crisis_detector()
-
 def get_session_id():
-    """Get or create anonymized session ID."""
-    if "session_id" not in st.session_state:
-        st.session_state.session_id = str(uuid.uuid4())
-    return st.session_state.session_id
+    """Generate a unique session ID."""
+    return str(uuid.uuid4())
 
 def detect_crisis(transcript, emotions):
-    """Detect crisis signals, consider cumulative risk, and log high/medium risk."""
-    if not crisis_detector:
-        logging.error("Crisis detector not loaded", extra={"session_id": get_session_id()})
-        return {"label": "error", "score": 0.0}
-    
-    session_id = get_session_id()
-    
-    raw_result = crisis_detector(transcript)[0]
-    raw_label = raw_result['label']
-    score = raw_result['score']
-    
-    label = CRISIS_LABEL_MAPPING.get(raw_label, raw_label)
-    
-    crisis_risk = {"label": label, "score": score}
-    
-    crisis_keywords = ["انتحار", "ما أبغى أعيش", "قتل نفسي", "suicide", "kill myself", "life is not worth living"]
-    if any(kw in transcript.lower() for kw in crisis_keywords):
-        crisis_risk = {"label": "High Risk", "score": 0.95}
-    
-    # Cumulative risk
-    negative_emotions = ["sadness", "grief", "fear", "remorse", "anger", "disappointment"]
-    if "emotion_history" not in st.session_state:
-        st.session_state.emotion_history = []
-    
-    # Append top emotion
-    if emotions:
-        top_emotion = emotions[0]["label"]
-        st.session_state.emotion_history.append(top_emotion)
-    
-    # Check if negative emotions dominate recent inputs
-    recent_emotions = st.session_state.emotion_history[-3:]  # Last 3 inputs
-    negative_count = sum(1 for emo in recent_emotions if emo in negative_emotions)
-    if negative_count >= 2 and crisis_risk["label"] != "High Risk":
-        crisis_risk = {"label": "Medium Risk", "score": max(crisis_risk["score"], 0.85)}
-    
-    # Log high/medium risk with detailed context
-    if crisis_risk["label"] in ["High Risk", "Medium Risk"] and crisis_risk["score"] > 0.8:
-        logging.info(
-            f"Crisis detected: Transcript='{transcript}' | Risk={crisis_risk['label']} | Score={crisis_risk['score']:.2f} | Emotions={emotions} | Emotion History={st.session_state.emotion_history}",
-            extra={"session_id": session_id}
+    """Detect crisis risk based on transcript and emotions using LLM."""
+    session_id = st.session_state.get("session_id", get_session_id())
+    try:
+        api_key = st.session_state.get("openai_api_key") or os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError("No OpenAI API key found in st.session_state or environment")
+        
+        llm = ChatOpenAI(
+            model="gpt-4o",
+            temperature=0.3,
+            api_key=api_key
         )
+        
+        prompt_template = PromptTemplate(
+            input_variables=["transcript", "emotions"],
+            template="""
+            You are a mental health crisis detection system. Analyze the following transcript and emotions to determine the crisis risk level (Low, Medium, High) and assign a score between 0.0 and 1.0.
+            
+            Transcript: {transcript}
+            Emotions: {emotions}
+            
+            Consider linguistic nuances, cultural context (Omani Arabic or English), and emotional intensity. Examples:
+            - High Risk: Explicit suicidal intent (e.g., "أفكر في الانتحار", "I want to end my life").
+            - Medium Risk: Expressions of sadness, hopelessness, or distress (e.g., "أنا حزين جدًا", "I feel hopeless").
+            - Low Risk: Neutral or positive statements (e.g., "أنا بخير", "I'm okay").
+            
+            Return a JSON object with "crisis_risk" (Low, Medium, High) and "score" (0.0 to 1.0).
+            """
+        )
+        
+        emotions_str = ", ".join([f"{e['label']}: {e['score']:.2f}" for e in emotions])
+        
+        prompt = prompt_template.format(transcript=transcript, emotions=emotions_str)
+        logging.info(f"Crisis detection prompt: {prompt}", extra={"session_id": session_id})
+        
+        response = llm.invoke(prompt)
+        logging.info(f"LLM response: {response.content}", extra={"session_id": session_id})
+        
+        response_text = re.sub(r'^```json\s*|\s*```$', '', response.content, flags=re.MULTILINE).strip()
+        logging.info(f"Cleaned LLM response: {response_text}", extra={"session_id": session_id})
+        
+        try:
+            result = json.loads(response_text)
+        except json.JSONDecodeError as e:
+            logging.error(f"Failed to parse LLM response: {response_text}, error: {str(e)}", extra={"session_id": session_id})
+            return "Unknown Risk", 0.0
+        
+        # Map abbreviated risk levels
+        risk_mapping = {
+            "Low": "Low Risk",
+            "Medium": "Medium Risk",
+            "High": "High Risk"
+        }
+        crisis_risk = risk_mapping.get(result.get("crisis_risk", "Unknown Risk"), "Unknown Risk")
+        score = float(result.get("score", 0.0))
+        
+        logging.info(f"Parsed crisis_risk: {crisis_risk}, score: {score:.2f}", extra={"session_id": session_id})
+        
+        # Adjust score based on emotions
+        for emotion in emotions:
+            if emotion['label'] in ['sadness', 'fear'] and emotion['score'] > 0.7:
+                score = min(score + 0.15, 1.0)
+            elif emotion['label'] == 'anger' and emotion['score'] > 0.7:
+                score = min(score + 0.1, 1.0)
+        
+        # Validate score
+        score = max(0.0, min(score, 1.0))
+        
+        logging.info(f"Crisis detection: {crisis_risk}, Score: {score:.2f}", extra={"session_id": session_id})
+        
+        return crisis_risk, score
     
-    return crisis_risk
+    except Exception as e:
+        logging.error(f"Crisis detection failed: {str(e)}", extra={"session_id": session_id})
+        return "Unknown Risk", 0.0
