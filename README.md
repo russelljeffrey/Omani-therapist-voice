@@ -84,7 +84,7 @@ See the `documentation/` folder for:
 Run the tests with:
 
 ```bash
-pytest tests/
+python -m pytest tests/
 ```
 
 ---
