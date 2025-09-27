@@ -8,12 +8,9 @@ All executions—including STT, RAG retrieval, and response generation—are log
 
 ## Accessing Reports
 
-You can access detailed latency and tracing reports via the LangSmith dashboard:
+You can access detailed reports via the LangSmith dashboard:
 
-👉 [LangSmith Dashboard Link]
-
-> **Note:**  
-> Access requires an API key. The API key provided for this project grants full access to latency and tracing data. Please keep it secure and **do not share publicly**.
+👉 [LangSmith Dashboard Link](https://smith.langchain.com/public/39661026-9512-413f-8805-1fe7fb3f7966/d)
 
 ---
 
