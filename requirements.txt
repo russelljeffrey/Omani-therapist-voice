@@ -16,4 +16,4 @@ tiktoken
 anthropic
 jiwer
 pytest
-langchain_community
+langchain-community
