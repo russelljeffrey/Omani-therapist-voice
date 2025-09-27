@@ -14,9 +14,9 @@ def consent_banner():
     if "consent" not in st.session_state:
         st.session_state.consent = False
     
-    st.session_state.consent = st.checkbox(
+    st.checkbox(
         "I consent to continue and agree that this is not a substitute for professional therapy.",
-        value=st.session_state.consent
+        key="consent"  # Add this key
     )
     
     if st.session_state.consent:
