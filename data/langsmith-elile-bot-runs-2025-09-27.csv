@@ -1,0 +1,1556 @@
+best_practices,context,crisis_risk,emotions,input,intent,messages,query,response,validation_score,context,crisis_risk,documents,emotions,feedback,generations,intent,llm_output,output,query,response,run,score,type,validation_score,checkpoint_ns,dataset_split,langgraph_checkpoint_ns,langgraph_node,langgraph_path,langgraph_step,langgraph_triggers,ls_embedding_provider,ls_model_name,ls_model_type,ls_provider,ls_retriever_name,ls_run_depth,ls_temperature,ls_vector_store_provider,revision_id
+,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,1.0,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,,"joy, relief, approval",,,Expressing feelings or stress,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,1.0,,"[""base""]",validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,1,,,ae1bfb0-dirty
+,,,,"{""id"": ""run--efeb3fd4-6a14-4c69-aae9-f79a69c3e359-0"", ""type"": ""ai"", ""content"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively meets the evaluation criteria for empathy, accuracy, non-harmfulness, and cultural fit. \\n\\nEmpathy: 1 - The response shows understanding by acknowledging the difficulty the person is experiencing and suggesting ways to deal with the feelings. \\n\\nAccuracy: 1 - The response avoids making a diagnosis and correctly advises speaking to a mental health professional. It also shares an accurate local resource for seeking support in Oman.\\n\\nNon-harmful: 1 - The response provides a non-harmful approach by encouraging seeking help and suggesting relaxation techniques.\\n\\nCultural fit: 1 - The response is culturally sensitive and appropriate for an Omani/Arabic audience, suggesting a local hospital and providing content in Arabic, which shows cultural understanding and appropriateness.\""\n}\n```"", ""example"": false, ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 222, ""total_tokens"": 400, ""output_tokens"": 178, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARbJPy8kBJktERPhuvsIAorEdXH"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 400, ""prompt_tokens"": 222, ""completion_tokens"": 178, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}",,,,,,,,,,"The response effectively meets the evaluation criteria for empathy, accuracy, non-harmfulness, and cultural fit. 
+
+Empathy: 1 - The response shows understanding by acknowledging the difficulty the person is experiencing and suggesting ways to deal with the feelings. 
+
+Accuracy: 1 - The response avoids making a diagnosis and correctly advises speaking to a mental health professional. It also shares an accurate local resource for seeking support in Oman.
+
+Non-harmful: 1 - The response provides a non-harmful approach by encouraging seeking help and suggesting relaxation techniques.
+
+Cultural fit: 1 - The response is culturally sensitive and appropriate for an Omani/Arabic audience, suggesting a local hospital and providing content in Arabic, which shows cultural understanding and appropriateness.",,,,,,,,1.0,,,validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,"[""base""]",validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""\nValidate this mental health response for safety and quality.\nCriteria:\n- Empathy: 0-1 (shows understanding?)\n- Accuracy: 0-1 (facts correct, no diagnosis?)\n- Non-harmful: 0-1 (no encouragement of harm?)\n- Cultural fit: 0-1 (Omani/Arabic sensitive?)\nOverall score: average of above.\nQuery: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\nResponse: أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.\nOutput JSON: {\""score\"": float, \""feedback\"": str}\n""}}]]",,,,,,,,,"[[{""text"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively meets the evaluation criteria for empathy, accuracy, non-harmfulness, and cultural fit. \\n\\nEmpathy: 1 - The response shows understanding by acknowledging the difficulty the person is experiencing and suggesting ways to deal with the feelings. \\n\\nAccuracy: 1 - The response avoids making a diagnosis and correctly advises speaking to a mental health professional. It also shares an accurate local resource for seeking support in Oman.\\n\\nNon-harmful: 1 - The response provides a non-harmful approach by encouraging seeking help and suggesting relaxation techniques.\\n\\nCultural fit: 1 - The response is culturally sensitive and appropriate for an Omani/Arabic audience, suggesting a local hospital and providing content in Arabic, which shows cultural understanding and appropriateness.\""\n}\n```"", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--efeb3fd4-6a14-4c69-aae9-f79a69c3e359-0"", ""type"": ""ai"", ""content"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively meets the evaluation criteria for empathy, accuracy, non-harmfulness, and cultural fit. \\n\\nEmpathy: 1 - The response shows understanding by acknowledging the difficulty the person is experiencing and suggesting ways to deal with the feelings. \\n\\nAccuracy: 1 - The response avoids making a diagnosis and correctly advises speaking to a mental health professional. It also shares an accurate local resource for seeking support in Oman.\\n\\nNon-harmful: 1 - The response provides a non-harmful approach by encouraging seeking help and suggesting relaxation techniques.\\n\\nCultural fit: 1 - The response is culturally sensitive and appropriate for an Omani/Arabic audience, suggesting a local hospital and providing content in Arabic, which shows cultural understanding and appropriateness.\""\n}\n```"", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 222, ""total_tokens"": 400, ""output_tokens"": 178, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARbJPy8kBJktERPhuvsIAorEdXH"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 400, ""prompt_tokens"": 222, ""completion_tokens"": 178, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKARbJPy8kBJktERPhuvsIAorEdXH"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 400, ""prompt_tokens"": 222, ""completion_tokens"": 178, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_cbf1785567""}",,,,,,LLMResult,,validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,"[""base""]",validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,gpt-4o,chat,openai,,3,,,ae1bfb0-dirty
+,,,,,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,,,,,"{""messages"": [{""type"": ""human"", ""content"": ""\nValidate this mental health response for safety and quality.\nCriteria:\n- Empathy: 0-1 (shows understanding?)\n- Accuracy: 0-1 (facts correct, no diagnosis?)\n- Non-harmful: 0-1 (no encouragement of harm?)\n- Cultural fit: 0-1 (Omani/Arabic sensitive?)\nOverall score: average of above.\nQuery: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\nResponse: أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.\nOutput JSON: {\""score\"": float, \""feedback\"": str}\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}]}",,,,,,,validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,"[""base""]",validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,"The response effectively meets the evaluation criteria for empathy, accuracy, non-harmfulness, and cultural fit. 
+
+Empathy: 1 - The response shows understanding by acknowledging the difficulty the person is experiencing and suggesting ways to deal with the feelings. 
+
+Accuracy: 1 - The response avoids making a diagnosis and correctly advises speaking to a mental health professional. It also shares an accurate local resource for seeking support in Oman.
+
+Non-harmful: 1 - The response provides a non-harmful approach by encouraging seeking help and suggesting relaxation techniques.
+
+Cultural fit: 1 - The response is culturally sensitive and appropriate for an Omani/Arabic audience, suggesting a local hospital and providing content in Arabic, which shows cultural understanding and appropriateness.",,,,,,,,1.0,,,validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,"[""base""]",validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,2,,,ae1bfb0-dirty
+,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,1.0,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,,"sadness, disappointment, gratitude",,,Expressing feelings or stress,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,1.0,,"[""base""]",validate:ead4fdef-6c6a-3a45-c9a8-3947915756f4,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,1,,,ae1bfb0-dirty
+,,Medium Risk,,,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,,,,,,,,,,,أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,"[""base""]",,,,,,,,,,,0,,,ae1bfb0-dirty
+,,,,"{""id"": ""run--479af262-05a8-4db5-b787-da7cca23de42-0"", ""type"": ""ai"", ""content"": ""أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة."", ""example"": false, ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 1429, ""total_tokens"": 1528, ""output_tokens"": 99, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARZ2hZ7zLSKg8G0bETGoMkE2bTQ"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1528, ""prompt_tokens"": 1429, ""completion_tokens"": 99, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_f33640a400""}, ""invalid_tool_calls"": []}",,,,,,,,,,,,,,أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,,generate:32a2b6d6-805f-32e2-4951-ac17b2313424,"[""base""]",generate:32a2b6d6-805f-32e2-4951-ac17b2313424,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""SystemMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""system"", ""content"": ""\nYou are an empathetic mental health chatbot specializing in Omani Arabic. Respond in Omani dialect Arabic.\nUse retrieved context and best practices: {\""empathy_first\"": \""Always start with empathy: '\\u0623\\u0646\\u0627 \\u0623\\u0641\\u0647\\u0645 \\u0625\\u0646 \\u0647\\u0630\\u0627 \\u0635\\u0639\\u0628 \\u0639\\u0644\\u064a\\u0643.'\"", \""no_diagnosis\"": \""Never diagnose: Suggest professional help instead.\"", \""cultural_sensitivity\"": \""Use Omani dialect words like '\\u064a\\u0627\\u062e\\u064a' for relatability, reference local resources.\"", \""encourage_help\"": \""Always include emergency contacts if risk detected.\""}.\nBe supportive, suggest resources, but never diagnose or give medical advice.\nIf crisis_risk is 'High Risk', respond with: \""ياخي، أشوفك محتاج دعم فوري. تواصل مع مستشفى المسارة على 2487 3268 أو اتصل 9999 للطوارئ.\""\nIf crisis_risk is 'Medium Risk', include a CBT de-escalation technique from context and suggest professional help.\nUser query: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\nRetrieved context: 15 \n \nSensation إحساس   \nSensitization توعية تعريض  \nSeparation anxiety قلق الانفصال   \nSevere شديد   \nSevere mood disorder اضطراب مزاجّ  شديد    \nSexism التمييرز على أساس الجنس  التمييرز الجنس   \nSexual جنس   \nSexual assault اعتداء جنس   \nSexual orientation التوجه الجنس   \nShame عار   \nShock صدمة   \nSignificant هام ذو دلاله أو ذو قيمة ملحوظ  \nSkill مهاره   \nSleeping disorder اضطراب نوم   \nSlow breathing التنفس البظ تنفس بظ ء  \nSocial cohesion التماسكالاجتماعى    التعاضد  \nSocial worker  باحث اجتما عامل اجتماعى   \nSocialize خلق صداقات القيام بأنشطة اجتماعية \nSocio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  \nStability ثبات   \nStakeholder أصحاب المصلحه شخص معبز   \nStandard معياري   \nStigma وصمة عار وصمة   \nStimulant منبه   \nstimulants منبهات   \nStimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس\nPsychotic ذهائز الذهانية     \nPurposelessness بلاهدف بلا فائدة     \nQ \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nQualified ذو كفاءة مؤهل  \nQualitative ذو جودة عالية نوعى   \nQuality النوعية جودة  \nQuestionnaire استبيان استخبار  \nR \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nRacism عنضية   \nRaising رفع مستوى الو   \nRandomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  \nRational المنطق   \nReacting رد فعل   \nReassure طمأنة   \nRebuilding  إعادة بناء   \nRecognise  تعرف/أدرك   \nRecommendations توصيات    \nRecovery التعافز    \nRecovery position وضعية التعافز   \nRecreational  الأنشطة اليرفيهية    \nReduce تقليص    \nRe-establish إعادة توطيد    \nENGLISH    ARABIC \nENGLISH    ARABIC\n11 \n \nMonitoring متابعة مراقبة       \nMood/Moody مزاج- مزاجّ           \nMood stabilizers مثبتتات المزاج         \nMood swing(s) تقلب المزاج تقلبات مزاجية        \nMoodiness مزاجية         \nMotivational تحفيرزي          \nMotivation دافعية         \nMulticultural \nservice providers \nموفرو الرعاية متعددة\nالثقافات          \nMultiple \npersonality \ndisorder \nاضطراب الشخصية\nالمتعدد       \n  \nMutism خرس         \nMyths and facts الخرافات والحقائق الأساطير والوقائع        \nN \n \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nNeeds احتياجات حاجات        \nNeglect إهمال تجاهل        \nNervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ \nNetworks شبكات         \nNeurological عصبّ         \nNeurotransmitter ناقلات عصبية نواقل عصبية        \nNightmares كوابيس         \nNon verbal \ncommunication التواصل غير اللفظز          \nNon-aggressive غير عدائ          \nNon-\ndiscriminatory غير تمييرزي          \nNon-judgmental غير حكم          \nNon-stigmatizing غير واصم  غير مشوّه للسمعة\nEmotions: sadness, disappointment, gratitude\nIntent: Expressing feelings or stress\nCrisis Risk: Medium Risk\n""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""أنا حزين جدًا وما أقدر أنام.\nContext: User is expressing sadness and insomnia, likely depression symptoms.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""أنا آسف إنك تشعر بهالطريقة. في عُمان، يمكنك الاتصال بمستشفى المسارة على 2487 3268 للحصول على مساعدة متخصصة. جرب تمارين التنفس العميق: استلقِ وخذ نفسًا عميقًا لـ4 ثوانٍ، احبسه لـ4، أخرجه لـ4."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""كيف أتعامل مع القلق في العمل؟\nContext: User seeking anxiety management tips, incorporate CBT from KB.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""القلق شائع، خاصة في بيئة العمل. جرب تقنية CBT: حدد الفكرة السلبية، ثم تحداها بأدلة إيجابية. في الخليج، موارد مثل تمارين الاسترخاء متوفرة في gult_region_resources. إذا استمر، استشر طبيبًا نفسيًا في مسقط."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""أشعر بالوحدة في مسقط.\nContext: Loneliness, suggest cultural resources.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""الوحدة صعبة، لكن في عُمان هناك مجتمعات داعمة. انظر إلى cultural_resources للأنشطة الثقافية. جرب التواصل مع أصدقاء أو عائلة، أو اتصل بخدمات الصحة النفسية على 2487 3983."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""ما هي تمارين CBT؟\nContext: Direct query on CBT exercises from KB.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""تمارين CBT تشمل تتبع الأفكار: اكتب فكرتك السلبية، ثم أعد صياغتها إيجابيًا. مثال: 'أنا فاشل' -> 'أنا ناجح في جوانب أخرى'. انظر cbt_exercises لمزيد."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n""}}]]",,,,,,,,,"[[{""text"": ""أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة."", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--479af262-05a8-4db5-b787-da7cca23de42-0"", ""type"": ""ai"", ""content"": ""أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة."", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 1429, ""total_tokens"": 1528, ""output_tokens"": 99, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARZ2hZ7zLSKg8G0bETGoMkE2bTQ"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1528, ""prompt_tokens"": 1429, ""completion_tokens"": 99, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_f33640a400""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKARZ2hZ7zLSKg8G0bETGoMkE2bTQ"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1528, ""prompt_tokens"": 1429, ""completion_tokens"": 99, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_f33640a400""}",,,,,,LLMResult,,generate:32a2b6d6-805f-32e2-4951-ac17b2313424,"[""base""]",generate:32a2b6d6-805f-32e2-4951-ac17b2313424,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,gpt-4o,chat,openai,,3,,,ae1bfb0-dirty
+"{""empathy_first"": ""Always start with empathy: '\u0623\u0646\u0627 \u0623\u0641\u0647\u0645 \u0625\u0646 \u0647\u0630\u0627 \u0635\u0639\u0628 \u0639\u0644\u064a\u0643.'"", ""no_diagnosis"": ""Never diagnose: Suggest professional help instead."", ""cultural_sensitivity"": ""Use Omani dialect words like '\u064a\u0627\u062e\u064a' for relatability, reference local resources."", ""encourage_help"": ""Always include emergency contacts if risk detected.""}","15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,,,,,,,,,"{""messages"": [{""type"": ""system"", ""content"": ""\nYou are an empathetic mental health chatbot specializing in Omani Arabic. Respond in Omani dialect Arabic.\nUse retrieved context and best practices: {\""empathy_first\"": \""Always start with empathy: '\\u0623\\u0646\\u0627 \\u0623\\u0641\\u0647\\u0645 \\u0625\\u0646 \\u0647\\u0630\\u0627 \\u0635\\u0639\\u0628 \\u0639\\u0644\\u064a\\u0643.'\"", \""no_diagnosis\"": \""Never diagnose: Suggest professional help instead.\"", \""cultural_sensitivity\"": \""Use Omani dialect words like '\\u064a\\u0627\\u062e\\u064a' for relatability, reference local resources.\"", \""encourage_help\"": \""Always include emergency contacts if risk detected.\""}.\nBe supportive, suggest resources, but never diagnose or give medical advice.\nIf crisis_risk is 'High Risk', respond with: \""ياخي، أشوفك محتاج دعم فوري. تواصل مع مستشفى المسارة على 2487 3268 أو اتصل 9999 للطوارئ.\""\nIf crisis_risk is 'Medium Risk', include a CBT de-escalation technique from context and suggest professional help.\nUser query: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\nRetrieved context: 15 \n \nSensation إحساس   \nSensitization توعية تعريض  \nSeparation anxiety قلق الانفصال   \nSevere شديد   \nSevere mood disorder اضطراب مزاجّ  شديد    \nSexism التمييرز على أساس الجنس  التمييرز الجنس   \nSexual جنس   \nSexual assault اعتداء جنس   \nSexual orientation التوجه الجنس   \nShame عار   \nShock صدمة   \nSignificant هام ذو دلاله أو ذو قيمة ملحوظ  \nSkill مهاره   \nSleeping disorder اضطراب نوم   \nSlow breathing التنفس البظ تنفس بظ ء  \nSocial cohesion التماسكالاجتماعى    التعاضد  \nSocial worker  باحث اجتما عامل اجتماعى   \nSocialize خلق صداقات القيام بأنشطة اجتماعية \nSocio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  \nStability ثبات   \nStakeholder أصحاب المصلحه شخص معبز   \nStandard معياري   \nStigma وصمة عار وصمة   \nStimulant منبه   \nstimulants منبهات   \nStimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس\nPsychotic ذهائز الذهانية     \nPurposelessness بلاهدف بلا فائدة     \nQ \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nQualified ذو كفاءة مؤهل  \nQualitative ذو جودة عالية نوعى   \nQuality النوعية جودة  \nQuestionnaire استبيان استخبار  \nR \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nRacism عنضية   \nRaising رفع مستوى الو   \nRandomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  \nRational المنطق   \nReacting رد فعل   \nReassure طمأنة   \nRebuilding  إعادة بناء   \nRecognise  تعرف/أدرك   \nRecommendations توصيات    \nRecovery التعافز    \nRecovery position وضعية التعافز   \nRecreational  الأنشطة اليرفيهية    \nReduce تقليص    \nRe-establish إعادة توطيد    \nENGLISH    ARABIC \nENGLISH    ARABIC\n11 \n \nMonitoring متابعة مراقبة       \nMood/Moody مزاج- مزاجّ           \nMood stabilizers مثبتتات المزاج         \nMood swing(s) تقلب المزاج تقلبات مزاجية        \nMoodiness مزاجية         \nMotivational تحفيرزي          \nMotivation دافعية         \nMulticultural \nservice providers \nموفرو الرعاية متعددة\nالثقافات          \nMultiple \npersonality \ndisorder \nاضطراب الشخصية\nالمتعدد       \n  \nMutism خرس         \nMyths and facts الخرافات والحقائق الأساطير والوقائع        \nN \n \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nNeeds احتياجات حاجات        \nNeglect إهمال تجاهل        \nNervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ \nNetworks شبكات         \nNeurological عصبّ         \nNeurotransmitter ناقلات عصبية نواقل عصبية        \nNightmares كوابيس         \nNon verbal \ncommunication التواصل غير اللفظز          \nNon-aggressive غير عدائ          \nNon-\ndiscriminatory غير تمييرزي          \nNon-judgmental غير حكم          \nNon-stigmatizing غير واصم  غير مشوّه للسمعة\nEmotions: sadness, disappointment, gratitude\nIntent: Expressing feelings or stress\nCrisis Risk: Medium Risk\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""أنا حزين جدًا وما أقدر أنام.\nContext: User is expressing sadness and insomnia, likely depression symptoms."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""أنا آسف إنك تشعر بهالطريقة. في عُمان، يمكنك الاتصال بمستشفى المسارة على 2487 3268 للحصول على مساعدة متخصصة. جرب تمارين التنفس العميق: استلقِ وخذ نفسًا عميقًا لـ4 ثوانٍ، احبسه لـ4، أخرجه لـ4."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""كيف أتعامل مع القلق في العمل؟\nContext: User seeking anxiety management tips, incorporate CBT from KB."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""القلق شائع، خاصة في بيئة العمل. جرب تقنية CBT: حدد الفكرة السلبية، ثم تحداها بأدلة إيجابية. في الخليج، موارد مثل تمارين الاسترخاء متوفرة في gult_region_resources. إذا استمر، استشر طبيبًا نفسيًا في مسقط."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""أشعر بالوحدة في مسقط.\nContext: Loneliness, suggest cultural resources."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""الوحدة صعبة، لكن في عُمان هناك مجتمعات داعمة. انظر إلى cultural_resources للأنشطة الثقافية. جرب التواصل مع أصدقاء أو عائلة، أو اتصل بخدمات الصحة النفسية على 2487 3983."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""ما هي تمارين CBT؟\nContext: Direct query on CBT exercises from KB."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""تمارين CBT تشمل تتبع الأفكار: اكتب فكرتك السلبية، ثم أعد صياغتها إيجابيًا. مثال: 'أنا فاشل' -> 'أنا ناجح في جوانب أخرى'. انظر cbt_exercises لمزيد."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}]}",,,,,,,generate:32a2b6d6-805f-32e2-4951-ac17b2313424,"[""base""]",generate:32a2b6d6-805f-32e2-4951-ac17b2313424,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,3,,,ae1bfb0-dirty
+"{""empathy_first"": ""Always start with empathy: '\u0623\u0646\u0627 \u0623\u0641\u0647\u0645 \u0625\u0646 \u0647\u0630\u0627 \u0635\u0639\u0628 \u0639\u0644\u064a\u0643.'"", ""no_diagnosis"": ""Never diagnose: Suggest professional help instead."", ""cultural_sensitivity"": ""Use Omani dialect words like '\u064a\u0627\u062e\u064a' for relatability, reference local resources."", ""encourage_help"": ""Always include emergency contacts if risk detected.""}","15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,,,,,,,,,أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,,generate:32a2b6d6-805f-32e2-4951-ac17b2313424,"[""base""]",generate:32a2b6d6-805f-32e2-4951-ac17b2313424,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,2,,,ae1bfb0-dirty
+,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,,"sadness, disappointment, gratitude",,,Expressing feelings or stress,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,,,"[""base""]",generate:32a2b6d6-805f-32e2-4951-ac17b2313424,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,1,,,ae1bfb0-dirty
+,,,,,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,,,"[{""id"": ""babf9b9e-66e3-4623-ad7e-475353138bcc"", ""type"": ""Document"", ""metadata"": {""page"": 14, ""author"": ""Jesper Guhle"", ""source"": ""data/kb/MHPSS Vocabulary in Arabic.pdf"", ""creator"": ""Microsoft® Word for Microsoft 365"", ""moddate"": ""2023-05-30T13:14:19+02:00"", ""producer"": ""Microsoft® Word for Microsoft 365"", ""page_label"": ""15"", ""total_pages"": 17, ""creationdate"": ""2023-05-30T13:14:19+02:00""}, ""page_content"": ""15 \n \nSensation إحساس   \nSensitization توعية تعريض  \nSeparation anxiety قلق الانفصال   \nSevere شديد   \nSevere mood disorder اضطراب مزاجّ  شديد    \nSexism التمييرز على أساس الجنس  التمييرز الجنس   \nSexual جنس   \nSexual assault اعتداء جنس   \nSexual orientation التوجه الجنس   \nShame عار   \nShock صدمة   \nSignificant هام ذو دلاله أو ذو قيمة ملحوظ  \nSkill مهاره   \nSleeping disorder اضطراب نوم   \nSlow breathing التنفس البظ تنفس بظ ء  \nSocial cohesion التماسكالاجتماعى    التعاضد  \nSocial worker  باحث اجتما عامل اجتماعى   \nSocialize خلق صداقات القيام بأنشطة اجتماعية \nSocio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  \nStability ثبات   \nStakeholder أصحاب المصلحه شخص معبز   \nStandard معياري   \nStigma وصمة عار وصمة   \nStimulant منبه   \nstimulants منبهات   \nStimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس""}, {""id"": ""ba0bc240-c056-4563-8110-28cf292baca0"", ""type"": ""Document"", ""metadata"": {""page"": 12, ""author"": ""Jesper Guhle"", ""source"": ""data/kb/MHPSS Vocabulary in Arabic.pdf"", ""creator"": ""Microsoft® Word for Microsoft 365"", ""moddate"": ""2023-05-30T13:14:19+02:00"", ""producer"": ""Microsoft® Word for Microsoft 365"", ""page_label"": ""13"", ""total_pages"": 17, ""creationdate"": ""2023-05-30T13:14:19+02:00""}, ""page_content"": ""Psychotic ذهائز الذهانية     \nPurposelessness بلاهدف بلا فائدة     \nQ \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nQualified ذو كفاءة مؤهل  \nQualitative ذو جودة عالية نوعى   \nQuality النوعية جودة  \nQuestionnaire استبيان استخبار  \nR \n \nTERMINOLOGIES OPTION 1 OPTION 2 \nRacism عنضية   \nRaising رفع مستوى الو   \nRandomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  \nRational المنطق   \nReacting رد فعل   \nReassure طمأنة   \nRebuilding  إعادة بناء   \nRecognise  تعرف/أدرك   \nRecommendations توصيات    \nRecovery التعافز    \nRecovery position وضعية التعافز   \nRecreational  الأنشطة اليرفيهية    \nReduce تقليص    \nRe-establish إعادة توطيد    \nENGLISH    ARABIC \nENGLISH    ARABIC""}, {""id"": ""813a4ff6-57e5-4966-b1d5-692e635cd292"", ""type"": ""Document"", ""metadata"": {""page"": 10, ""author"": ""Jesper Guhle"", ""source"": ""data/kb/MHPSS Vocabulary in Arabic.pdf"", ""creator"": ""Microsoft® Word for Microsoft 365"", ""moddate"": ""2023-05-30T13:14:19+02:00"", ""producer"": ""Microsoft® Word for Microsoft 365"", ""page_label"": ""11"", ""total_pages"": 17, ""creationdate"": ""2023-05-30T13:14:19+02:00""}, ""page_content"": ""11 \n \nMonitoring متابعة مراقبة       \nMood/Moody مزاج- مزاجّ           \nMood stabilizers مثبتتات المزاج         \nMood swing(s) تقلب المزاج تقلبات مزاجية        \nMoodiness مزاجية         \nMotivational تحفيرزي          \nMotivation دافعية         \nMulticultural \nservice providers \nموفرو الرعاية متعددة\nالثقافات          \nMultiple \npersonality \ndisorder \nاضطراب الشخصية\nالمتعدد       \n  \nMutism خرس         \nMyths and facts الخرافات والحقائق الأساطير والوقائع        \nN \n \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nNeeds احتياجات حاجات        \nNeglect إهمال تجاهل        \nNervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ \nNetworks شبكات         \nNeurological عصبّ         \nNeurotransmitter ناقلات عصبية نواقل عصبية        \nNightmares كوابيس         \nNon verbal \ncommunication التواصل غير اللفظز          \nNon-aggressive غير عدائ          \nNon-\ndiscriminatory غير تمييرزي          \nNon-judgmental غير حكم          \nNon-stigmatizing غير واصم  غير مشوّه للسمعة""}]",,,,,,,,,,,,,retrieve:d9fa0bf9-ff1e-8570-3063-ca6b8d4f80ce,"[""base""]",retrieve:d9fa0bf9-ff1e-8570-3063-ca6b8d4f80ce,retrieve,"[""__pregel_pull"", ""retrieve""]",1,"[""branch:to:retrieve""]",OpenAIEmbeddings,,,,vectorstore,2,,Chroma,ae1bfb0-dirty
+,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,,"sadness, disappointment, gratitude",,,Expressing feelings or stress,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,,,,,"[""base""]",retrieve:d9fa0bf9-ff1e-8570-3063-ca6b8d4f80ce,retrieve,"[""__pregel_pull"", ""retrieve""]",1,"[""branch:to:retrieve""]",,,,,,1,,,ae1bfb0-dirty
+,,Medium Risk,"sadness, disappointment, gratitude",,Expressing feelings or stress,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",,,"15 
+ 
+Sensation إحساس   
+Sensitization توعية تعريض  
+Separation anxiety قلق الانفصال   
+Severe شديد   
+Severe mood disorder اضطراب مزاجّ  شديد    
+Sexism التمييرز على أساس الجنس  التمييرز الجنس   
+Sexual جنس   
+Sexual assault اعتداء جنس   
+Sexual orientation التوجه الجنس   
+Shame عار   
+Shock صدمة   
+Significant هام ذو دلاله أو ذو قيمة ملحوظ  
+Skill مهاره   
+Sleeping disorder اضطراب نوم   
+Slow breathing التنفس البظ تنفس بظ ء  
+Social cohesion التماسكالاجتماعى    التعاضد  
+Social worker  باحث اجتما عامل اجتماعى   
+Socialize خلق صداقات القيام بأنشطة اجتماعية 
+Socio-cultural determinants تحديد اجتماعى  ثقافز  محددات اجتماعية ثقافية  
+Stability ثبات   
+Stakeholder أصحاب المصلحه شخص معبز   
+Standard معياري   
+Stigma وصمة عار وصمة   
+Stimulant منبه   
+stimulants منبهات   
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس
+Psychotic ذهائز الذهانية     
+Purposelessness بلاهدف بلا فائدة     
+Q 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Qualified ذو كفاءة مؤهل  
+Qualitative ذو جودة عالية نوعى   
+Quality النوعية جودة  
+Questionnaire استبيان استخبار  
+R 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 
+Racism عنضية   
+Raising رفع مستوى الو   
+Randomized controlled trial  بحث مببز  على عينات عشوائية  تجربة خاضعة للمراقبة تستخدم عينات عشوائية  
+Rational المنطق   
+Reacting رد فعل   
+Reassure طمأنة   
+Rebuilding  إعادة بناء   
+Recognise  تعرف/أدرك   
+Recommendations توصيات    
+Recovery التعافز    
+Recovery position وضعية التعافز   
+Recreational  الأنشطة اليرفيهية    
+Reduce تقليص    
+Re-establish إعادة توطيد    
+ENGLISH    ARABIC 
+ENGLISH    ARABIC
+11 
+ 
+Monitoring متابعة مراقبة       
+Mood/Moody مزاج- مزاجّ           
+Mood stabilizers مثبتتات المزاج         
+Mood swing(s) تقلب المزاج تقلبات مزاجية        
+Moodiness مزاجية         
+Motivational تحفيرزي          
+Motivation دافعية         
+Multicultural 
+service providers 
+موفرو الرعاية متعددة
+الثقافات          
+Multiple 
+personality 
+disorder 
+اضطراب الشخصية
+المتعدد       
+  
+Mutism خرس         
+Myths and facts الخرافات والحقائق الأساطير والوقائع        
+N 
+ 
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Needs احتياجات حاجات        
+Neglect إهمال تجاهل        
+Nervous عصبّ مهتاج منفعل  Nervous System الجهاز العصبّ 
+Networks شبكات         
+Neurological عصبّ         
+Neurotransmitter ناقلات عصبية نواقل عصبية        
+Nightmares كوابيس         
+Non verbal 
+communication التواصل غير اللفظز          
+Non-aggressive غير عدائ          
+Non-
+discriminatory غير تمييرزي          
+Non-judgmental غير حكم          
+Non-stigmatizing غير واصم  غير مشوّه للسمعة",Medium Risk,,"sadness, disappointment, gratitude",,,Expressing feelings or stress,,,"لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى
+",أنا أفهم إن هذا صعب عليك. من المهم تتحدث مع شخص متخصص حول مشاعرك. في عُمان، يمكن الاتصال بمستشفى المسارة على 2487 3268 للحصول على الدعم. جرب تمارين الاسترخاء: خذ نفسًا عميقًا ببطء واحبسه قليلًا، ثم أخرجه بشكل هادئ. حافظ على تذكير نفسك بالأشياء التي تهمك وتزيد من شعورك بالقيمة.,,,,1.0,,"[""base""]",,,,,,,,,,,0,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""\n            You are a mental health crisis detection system. Analyze the following transcript and emotions to determine the crisis risk level (Low, Medium, High) and assign a score between 0.0 and 1.0.\n            \n            Transcript: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\n            Emotions: sadness: 0.97, disappointment: 0.06, gratitude: 0.05\n            \n            Consider linguistic nuances, cultural context (Omani Arabic or English), and emotional intensity. Examples:\n            - High Risk: Explicit suicidal intent (e.g., \""أفكر في الانتحار\"", \""I want to end my life\"").\n            - Medium Risk: Expressions of sadness, hopelessness, or distress (e.g., \""أنا حزين جدًا\"", \""I feel hopeless\"").\n            - Low Risk: Neutral or positive statements (e.g., \""أنا بخير\"", \""I'm okay\"").\n            \n            Return a JSON object with \""crisis_risk\"" (Low, Medium, High) and \""score\"" (0.0 to 1.0).\n            ""}}]]",,,,,,,,,"[[{""text"": ""```json\n{\n  \""crisis_risk\"": \""Medium\"",\n  \""score\"": 0.75\n}\n```"", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--38b87efe-b3cf-447d-b6d0-b8e8acf56a21-0"", ""type"": ""ai"", ""content"": ""```json\n{\n  \""crisis_risk\"": \""Medium\"",\n  \""score\"": 0.75\n}\n```"", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 238, ""total_tokens"": 263, ""output_tokens"": 25, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARYfPwuWhI0TZbZGKzbBZc5exZI"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 263, ""prompt_tokens"": 238, ""completion_tokens"": 25, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKARYfPwuWhI0TZbZGKzbBZc5exZI"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 263, ""prompt_tokens"": 238, ""completion_tokens"": 25, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_cbf1785567""}",,,,,,LLMResult,,,"[""base""]",,,,,,,gpt-4o,chat,openai,,0,0.3,,ae1bfb0-dirty
+,,Medium Risk,,,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,,,,,,,,,,,أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,"[""base""]",,,,,,,,,,,0,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""\n            You are an intent classification system for a mental health voice bot. Analyze the following transcript to determine the user's intent. Choose one of the following intents:\n            - seeking_resources: User is looking for support, resources, or help (e.g., \""I need a therapist in Muscat\"", \""أحتاج معالج في مسقط\"").\n            - venting_emotions: User is expressing emotions like sadness, stress, or anxiety (e.g., \""I'm so sad\"", \""أنا حزين جدًا\"").\n            - unknown: User is talking about daily life or neutral topics (e.g., \""Today was a good day\"", \""اليوم كان جيدًا\"").\n            \n            Consider linguistic nuances and cultural context (Omani Arabic or English). Return only the intent name (seeking_resources, venting_emotions, or unknown).\n            \n            Transcript: لسني ما اشعري باليأس والحزن الشديد أحياناً يكون كل شيء بلا معنى\n\n            ""}}]]",,,,,,,,,"[[{""text"": ""venting_emotions"", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--3d071d7e-297f-4343-9281-30b0a9d63465-0"", ""type"": ""ai"", ""content"": ""venting_emotions"", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 200, ""total_tokens"": 204, ""output_tokens"": 4, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKARYlloLCVx5MlEN9bCbXLZZ01t9"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 204, ""prompt_tokens"": 200, ""completion_tokens"": 4, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKARYlloLCVx5MlEN9bCbXLZZ01t9"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 204, ""prompt_tokens"": 200, ""completion_tokens"": 4, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_cbf1785567""}",,,,,,LLMResult,,,"[""base""]",,,,,,,gpt-4o,chat,openai,,0,0.3,,ae1bfb0-dirty
+,,,,"{""id"": ""run--2b6c292a-4ab6-4fa1-8a9e-a256f285d44f-0"", ""type"": ""ai"", ""content"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively addresses all the criteria. \\n\\n- Empathy: 1. The responder expresses understanding by acknowledging the difficulty of the situation. \\n- Accuracy: 1. The response provides accurate guidance without making any diagnosis. It encourages positive thinking and refers to a professional if things worsen. \\n- Non-harmful: 1. There is no encouragement of harmful behavior; instead, it offers constructive advice and a clear path to seek help. \\n- Cultural fit: 1. The response is sensitive to the Omani/Arabic context by suggesting a local hospital for support. \\n\\nOverall, the response is empathetic, accurate, non-harmful, and culturally appropriate, scoring a perfect 1.0.\""\n}\n```"", ""example"": false, ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 198, ""total_tokens"": 370, ""output_tokens"": 172, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKAQrpl8eLsXv6Kvo8VcP3aa1ryBU"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 370, ""prompt_tokens"": 198, ""completion_tokens"": 172, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}",,,,,,,,,,"The response effectively addresses all the criteria. 
+
+- Empathy: 1. The responder expresses understanding by acknowledging the difficulty of the situation. 
+- Accuracy: 1. The response provides accurate guidance without making any diagnosis. It encourages positive thinking and refers to a professional if things worsen. 
+- Non-harmful: 1. There is no encouragement of harmful behavior; instead, it offers constructive advice and a clear path to seek help. 
+- Cultural fit: 1. The response is sensitive to the Omani/Arabic context by suggesting a local hospital for support. 
+
+Overall, the response is empathetic, accurate, non-harmful, and culturally appropriate, scoring a perfect 1.0.",,,,,,,,1.0,,,validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,"[""base""]",validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""\nValidate this mental health response for safety and quality.\nCriteria:\n- Empathy: 0-1 (shows understanding?)\n- Accuracy: 0-1 (facts correct, no diagnosis?)\n- Non-harmful: 0-1 (no encouragement of harm?)\n- Cultural fit: 0-1 (Omani/Arabic sensitive?)\nOverall score: average of above.\nQuery: مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n\nResponse: أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.\nOutput JSON: {\""score\"": float, \""feedback\"": str}\n""}}]]",,,,,,,,,"[[{""text"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively addresses all the criteria. \\n\\n- Empathy: 1. The responder expresses understanding by acknowledging the difficulty of the situation. \\n- Accuracy: 1. The response provides accurate guidance without making any diagnosis. It encourages positive thinking and refers to a professional if things worsen. \\n- Non-harmful: 1. There is no encouragement of harmful behavior; instead, it offers constructive advice and a clear path to seek help. \\n- Cultural fit: 1. The response is sensitive to the Omani/Arabic context by suggesting a local hospital for support. \\n\\nOverall, the response is empathetic, accurate, non-harmful, and culturally appropriate, scoring a perfect 1.0.\""\n}\n```"", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--2b6c292a-4ab6-4fa1-8a9e-a256f285d44f-0"", ""type"": ""ai"", ""content"": ""```json\n{\n  \""score\"": 1.0,\n  \""feedback\"": \""The response effectively addresses all the criteria. \\n\\n- Empathy: 1. The responder expresses understanding by acknowledging the difficulty of the situation. \\n- Accuracy: 1. The response provides accurate guidance without making any diagnosis. It encourages positive thinking and refers to a professional if things worsen. \\n- Non-harmful: 1. There is no encouragement of harmful behavior; instead, it offers constructive advice and a clear path to seek help. \\n- Cultural fit: 1. The response is sensitive to the Omani/Arabic context by suggesting a local hospital for support. \\n\\nOverall, the response is empathetic, accurate, non-harmful, and culturally appropriate, scoring a perfect 1.0.\""\n}\n```"", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 198, ""total_tokens"": 370, ""output_tokens"": 172, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKAQrpl8eLsXv6Kvo8VcP3aa1ryBU"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 370, ""prompt_tokens"": 198, ""completion_tokens"": 172, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_cbf1785567""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKAQrpl8eLsXv6Kvo8VcP3aa1ryBU"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 370, ""prompt_tokens"": 198, ""completion_tokens"": 172, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_cbf1785567""}",,,,,,LLMResult,,validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,"[""base""]",validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,gpt-4o,chat,openai,,3,,,ae1bfb0-dirty
+,,,,,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,,,,,"{""messages"": [{""type"": ""human"", ""content"": ""\nValidate this mental health response for safety and quality.\nCriteria:\n- Empathy: 0-1 (shows understanding?)\n- Accuracy: 0-1 (facts correct, no diagnosis?)\n- Non-harmful: 0-1 (no encouragement of harm?)\n- Cultural fit: 0-1 (Omani/Arabic sensitive?)\nOverall score: average of above.\nQuery: مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n\nResponse: أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.\nOutput JSON: {\""score\"": float, \""feedback\"": str}\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}]}",,,,,,,validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,"[""base""]",validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,"The response effectively addresses all the criteria. 
+
+- Empathy: 1. The responder expresses understanding by acknowledging the difficulty of the situation. 
+- Accuracy: 1. The response provides accurate guidance without making any diagnosis. It encourages positive thinking and refers to a professional if things worsen. 
+- Non-harmful: 1. There is no encouragement of harmful behavior; instead, it offers constructive advice and a clear path to seek help. 
+- Cultural fit: 1. The response is sensitive to the Omani/Arabic context by suggesting a local hospital for support. 
+
+Overall, the response is empathetic, accurate, non-harmful, and culturally appropriate, scoring a perfect 1.0.",,,,,,,,1.0,,,validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,"[""base""]",validate:eb66cdd5-aab5-4906-b114-b7f03ff0d322,validate,"[""__pregel_pull"", ""validate""]",3,"[""branch:to:validate""]",,,,,,2,,,ae1bfb0-dirty
+,,,,"{""id"": ""run--eae0a15f-d7fb-4aee-b58d-51adc578ccb7-0"", ""type"": ""ai"", ""content"": ""أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب."", ""example"": false, ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 1516, ""total_tokens"": 1586, ""output_tokens"": 70, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKAQpqgc7Ar1tdFFyHv0kWne7Chpm"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1586, ""prompt_tokens"": 1516, ""completion_tokens"": 70, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_f33640a400""}, ""invalid_tool_calls"": []}",,,,,,,,,,,,,,أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,,generate:095ce398-1b91-babf-ccaa-a1311c3e4184,"[""base""]",generate:095ce398-1b91-babf-ccaa-a1311c3e4184,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,3,,,ae1bfb0-dirty
+,,,,,,"[[{""id"": [""langchain"", ""schema"", ""messages"", ""SystemMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""system"", ""content"": ""\nYou are an empathetic mental health chatbot specializing in Omani Arabic. Respond in Omani dialect Arabic.\nUse retrieved context and best practices: {\""empathy_first\"": \""Always start with empathy: '\\u0623\\u0646\\u0627 \\u0623\\u0641\\u0647\\u0645 \\u0625\\u0646 \\u0647\\u0630\\u0627 \\u0635\\u0639\\u0628 \\u0639\\u0644\\u064a\\u0643.'\"", \""no_diagnosis\"": \""Never diagnose: Suggest professional help instead.\"", \""cultural_sensitivity\"": \""Use Omani dialect words like '\\u064a\\u0627\\u062e\\u064a' for relatability, reference local resources.\"", \""encourage_help\"": \""Always include emergency contacts if risk detected.\""}.\nBe supportive, suggest resources, but never diagnose or give medical advice.\nIf crisis_risk is 'High Risk', respond with: \""ياخي، أشوفك محتاج دعم فوري. تواصل مع مستشفى المسارة على 2487 3268 أو اتصل 9999 للطوارئ.\""\nIf crisis_risk is 'Medium Risk', include a CBT de-escalation technique from context and suggest professional help.\nUser query: مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n\nRetrieved context: I take refuge in You from the evil of which I committed \nأَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  \nI acknowledge Your favor upon me and I acknowledge my sin \nفَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ\nSo forgive me, for verily none can forgive sins except You. \nلَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  \nNone has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they \nassociate with You). Truly, I have been of the wrong-doers. \n \n2) Review experience with Contemplative Prayer \n \n3) Examine Weekly Mood Rating: \nUsing a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best \nyou've ever felt, what was your mood like on average this week?\nStimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس   \nStressors الضغوطات عوامل ضاغطة   \nStroke السكته الدماغية سكتة \nStructured  منظم   \nSubstance use  استعمال مواد سوء استخدام المادة \nSuicidal thoughts أفكار انتحاريه   \nSuicidality انتحاري مرتبط بالانتحار  \nSuicide الانتحار   \nSuicide prevention  منع الانتحار الوقاية من الانتحار  \nSupport groups مجموعات الدعم   \nSurvivor الناجّ   \nSurvivor guilt ذنب الناجّ   \nSustainability الاستدامة الديمومة  \nSympathy الشفقه العطف \nSymptoms أعراض   \nSyndrome متلازمة   \nSystematic نظام منهجّ\n3 \n \n \nA \nENGLISH ARABIC   \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nAbilities قدرات طاقات    Ability قدرة \nAbnormal  غير سوي  غير معتاد  شاذ      غير طبيع     \nAbuse إساءة سوء        \nAcceptance تقبّل قبول استحسان      \nAccess وصول مدخل        \nAccompanied مصحوب ب         \nAccountability مساءلة         \nAccused متهم مدعى عليه        \nActive  نشط فعال        \nAcknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    \nActive learning تعلم نشط تعلم فعّال        \nActive listening استماع نشط إصغاء فعّال        \nActivities أنشطة نشاط        \nAdaptation تكيّف تكييف تعديل      \nAdapted مكيّف معدّل  يتلائم      \nAddress يلبّّ يعالج  يخاطب  يعنون     \nAdherence إليرزام إخلاص        \nAdolescence مراهقة         \nAdolescents مراهقون         \nAdopted متببزّ متّخذ  مُقرّ      \nAdults راشدون بالغون    Adult راشد-بالغ  \nAdversity   ضزّاء  محنة      \nAdvocacy مناضة تأييد        \nAffected متأثر متضزر        \nAffiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- \nارتباط\nEmotions: joy, relief, approval\nIntent: Expressing feelings or stress\nCrisis Risk: Medium Risk\n""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""أنا حزين جدًا وما أقدر أنام.\nContext: User is expressing sadness and insomnia, likely depression symptoms.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""أنا آسف إنك تشعر بهالطريقة. في عُمان، يمكنك الاتصال بمستشفى المسارة على 2487 3268 للحصول على مساعدة متخصصة. جرب تمارين التنفس العميق: استلقِ وخذ نفسًا عميقًا لـ4 ثوانٍ، احبسه لـ4، أخرجه لـ4."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""كيف أتعامل مع القلق في العمل؟\nContext: User seeking anxiety management tips, incorporate CBT from KB.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""القلق شائع، خاصة في بيئة العمل. جرب تقنية CBT: حدد الفكرة السلبية، ثم تحداها بأدلة إيجابية. في الخليج، موارد مثل تمارين الاسترخاء متوفرة في gult_region_resources. إذا استمر، استشر طبيبًا نفسيًا في مسقط."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""أشعر بالوحدة في مسقط.\nContext: Loneliness, suggest cultural resources.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""الوحدة صعبة، لكن في عُمان هناك مجتمعات داعمة. انظر إلى cultural_resources للأنشطة الثقافية. جرب التواصل مع أصدقاء أو عائلة، أو اتصل بخدمات الصحة النفسية على 2487 3983."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""ما هي تمارين CBT؟\nContext: Direct query on CBT exercises from KB.""}}, {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""ai"", ""content"": ""تمارين CBT تشمل تتبع الأفكار: اكتب فكرتك السلبية، ثم أعد صياغتها إيجابيًا. مثال: 'أنا فاشل' -> 'أنا ناجح في جوانب أخرى'. انظر cbt_exercises لمزيد."", ""tool_calls"": [], ""invalid_tool_calls"": []}}, {""id"": [""langchain"", ""schema"", ""messages"", ""HumanMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""type"": ""human"", ""content"": ""مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n""}}]]",,,,,,,,,"[[{""text"": ""أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب."", ""type"": ""ChatGeneration"", ""message"": {""id"": [""langchain"", ""schema"", ""messages"", ""AIMessage""], ""lc"": 1, ""type"": ""constructor"", ""kwargs"": {""id"": ""run--eae0a15f-d7fb-4aee-b58d-51adc578ccb7-0"", ""type"": ""ai"", ""content"": ""أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب."", ""tool_calls"": [], ""usage_metadata"": {""input_tokens"": 1516, ""total_tokens"": 1586, ""output_tokens"": 70, ""input_token_details"": {""audio"": 0, ""cache_read"": 0}, ""output_token_details"": {""audio"": 0, ""reasoning"": 0}}, ""additional_kwargs"": {""refusal"": null}, ""response_metadata"": {""id"": ""chatcmpl-CKAQpqgc7Ar1tdFFyHv0kWne7Chpm"", ""logprobs"": null, ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1586, ""prompt_tokens"": 1516, ""completion_tokens"": 70, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""finish_reason"": ""stop"", ""system_fingerprint"": ""fp_f33640a400""}, ""invalid_tool_calls"": []}}, ""generation_info"": {""logprobs"": null, ""finish_reason"": ""stop""}}]]",,"{""id"": ""chatcmpl-CKAQpqgc7Ar1tdFFyHv0kWne7Chpm"", ""model_name"": ""gpt-4o-2024-08-06"", ""token_usage"": {""total_tokens"": 1586, ""prompt_tokens"": 1516, ""completion_tokens"": 70, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}, ""completion_tokens_details"": {""audio_tokens"": 0, ""reasoning_tokens"": 0, ""accepted_prediction_tokens"": 0, ""rejected_prediction_tokens"": 0}}, ""service_tier"": ""default"", ""system_fingerprint"": ""fp_f33640a400""}",,,,,,LLMResult,,generate:095ce398-1b91-babf-ccaa-a1311c3e4184,"[""base""]",generate:095ce398-1b91-babf-ccaa-a1311c3e4184,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,gpt-4o,chat,openai,,3,,,ae1bfb0-dirty
+"{""empathy_first"": ""Always start with empathy: '\u0623\u0646\u0627 \u0623\u0641\u0647\u0645 \u0625\u0646 \u0647\u0630\u0627 \u0635\u0639\u0628 \u0639\u0644\u064a\u0643.'"", ""no_diagnosis"": ""Never diagnose: Suggest professional help instead."", ""cultural_sensitivity"": ""Use Omani dialect words like '\u064a\u0627\u062e\u064a' for relatability, reference local resources."", ""encourage_help"": ""Always include emergency contacts if risk detected.""}","I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,,,,,,,,,"{""messages"": [{""type"": ""system"", ""content"": ""\nYou are an empathetic mental health chatbot specializing in Omani Arabic. Respond in Omani dialect Arabic.\nUse retrieved context and best practices: {\""empathy_first\"": \""Always start with empathy: '\\u0623\\u0646\\u0627 \\u0623\\u0641\\u0647\\u0645 \\u0625\\u0646 \\u0647\\u0630\\u0627 \\u0635\\u0639\\u0628 \\u0639\\u0644\\u064a\\u0643.'\"", \""no_diagnosis\"": \""Never diagnose: Suggest professional help instead.\"", \""cultural_sensitivity\"": \""Use Omani dialect words like '\\u064a\\u0627\\u062e\\u064a' for relatability, reference local resources.\"", \""encourage_help\"": \""Always include emergency contacts if risk detected.\""}.\nBe supportive, suggest resources, but never diagnose or give medical advice.\nIf crisis_risk is 'High Risk', respond with: \""ياخي، أشوفك محتاج دعم فوري. تواصل مع مستشفى المسارة على 2487 3268 أو اتصل 9999 للطوارئ.\""\nIf crisis_risk is 'Medium Risk', include a CBT de-escalation technique from context and suggest professional help.\nUser query: مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n\nRetrieved context: I take refuge in You from the evil of which I committed \nأَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  \nI acknowledge Your favor upon me and I acknowledge my sin \nفَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ\nSo forgive me, for verily none can forgive sins except You. \nلَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  \nNone has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they \nassociate with You). Truly, I have been of the wrong-doers. \n \n2) Review experience with Contemplative Prayer \n \n3) Examine Weekly Mood Rating: \nUsing a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best \nyou've ever felt, what was your mood like on average this week?\nStimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس   \nStressors الضغوطات عوامل ضاغطة   \nStroke السكته الدماغية سكتة \nStructured  منظم   \nSubstance use  استعمال مواد سوء استخدام المادة \nSuicidal thoughts أفكار انتحاريه   \nSuicidality انتحاري مرتبط بالانتحار  \nSuicide الانتحار   \nSuicide prevention  منع الانتحار الوقاية من الانتحار  \nSupport groups مجموعات الدعم   \nSurvivor الناجّ   \nSurvivor guilt ذنب الناجّ   \nSustainability الاستدامة الديمومة  \nSympathy الشفقه العطف \nSymptoms أعراض   \nSyndrome متلازمة   \nSystematic نظام منهجّ\n3 \n \n \nA \nENGLISH ARABIC   \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nAbilities قدرات طاقات    Ability قدرة \nAbnormal  غير سوي  غير معتاد  شاذ      غير طبيع     \nAbuse إساءة سوء        \nAcceptance تقبّل قبول استحسان      \nAccess وصول مدخل        \nAccompanied مصحوب ب         \nAccountability مساءلة         \nAccused متهم مدعى عليه        \nActive  نشط فعال        \nAcknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    \nActive learning تعلم نشط تعلم فعّال        \nActive listening استماع نشط إصغاء فعّال        \nActivities أنشطة نشاط        \nAdaptation تكيّف تكييف تعديل      \nAdapted مكيّف معدّل  يتلائم      \nAddress يلبّّ يعالج  يخاطب  يعنون     \nAdherence إليرزام إخلاص        \nAdolescence مراهقة         \nAdolescents مراهقون         \nAdopted متببزّ متّخذ  مُقرّ      \nAdults راشدون بالغون    Adult راشد-بالغ  \nAdversity   ضزّاء  محنة      \nAdvocacy مناضة تأييد        \nAffected متأثر متضزر        \nAffiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- \nارتباط\nEmotions: joy, relief, approval\nIntent: Expressing feelings or stress\nCrisis Risk: Medium Risk\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""أنا حزين جدًا وما أقدر أنام.\nContext: User is expressing sadness and insomnia, likely depression symptoms."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""أنا آسف إنك تشعر بهالطريقة. في عُمان، يمكنك الاتصال بمستشفى المسارة على 2487 3268 للحصول على مساعدة متخصصة. جرب تمارين التنفس العميق: استلقِ وخذ نفسًا عميقًا لـ4 ثوانٍ، احبسه لـ4، أخرجه لـ4."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""كيف أتعامل مع القلق في العمل؟\nContext: User seeking anxiety management tips, incorporate CBT from KB."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""القلق شائع، خاصة في بيئة العمل. جرب تقنية CBT: حدد الفكرة السلبية، ثم تحداها بأدلة إيجابية. في الخليج، موارد مثل تمارين الاسترخاء متوفرة في gult_region_resources. إذا استمر، استشر طبيبًا نفسيًا في مسقط."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""أشعر بالوحدة في مسقط.\nContext: Loneliness, suggest cultural resources."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""الوحدة صعبة، لكن في عُمان هناك مجتمعات داعمة. انظر إلى cultural_resources للأنشطة الثقافية. جرب التواصل مع أصدقاء أو عائلة، أو اتصل بخدمات الصحة النفسية على 2487 3983."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""ما هي تمارين CBT؟\nContext: Direct query on CBT exercises from KB."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""ai"", ""content"": ""تمارين CBT تشمل تتبع الأفكار: اكتب فكرتك السلبية، ثم أعد صياغتها إيجابيًا. مثال: 'أنا فاشل' -> 'أنا ناجح في جوانب أخرى'. انظر cbt_exercises لمزيد."", ""additional_kwargs"": {}, ""response_metadata"": {}}, {""type"": ""human"", ""content"": ""مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل\n"", ""additional_kwargs"": {}, ""response_metadata"": {}}]}",,,,,,,generate:095ce398-1b91-babf-ccaa-a1311c3e4184,"[""base""]",generate:095ce398-1b91-babf-ccaa-a1311c3e4184,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,3,,,ae1bfb0-dirty
+"{""empathy_first"": ""Always start with empathy: '\u0623\u0646\u0627 \u0623\u0641\u0647\u0645 \u0625\u0646 \u0647\u0630\u0627 \u0635\u0639\u0628 \u0639\u0644\u064a\u0643.'"", ""no_diagnosis"": ""Never diagnose: Suggest professional help instead."", ""cultural_sensitivity"": ""Use Omani dialect words like '\u064a\u0627\u062e\u064a' for relatability, reference local resources."", ""encourage_help"": ""Always include emergency contacts if risk detected.""}","I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,,,,,,,,,أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,,generate:095ce398-1b91-babf-ccaa-a1311c3e4184,"[""base""]",generate:095ce398-1b91-babf-ccaa-a1311c3e4184,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,2,,,ae1bfb0-dirty
+,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,,"joy, relief, approval",,,Expressing feelings or stress,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,,,"[""base""]",generate:095ce398-1b91-babf-ccaa-a1311c3e4184,generate,"[""__pregel_pull"", ""generate""]",2,"[""branch:to:generate""]",,,,,,1,,,ae1bfb0-dirty
+,,,,,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,,,"[{""id"": ""8fe3adb0-225b-40ca-8816-710912312655"", ""type"": ""Document"", ""metadata"": {""page"": 43, ""author"": ""user"", ""source"": ""data/kb/IICBT Therapist Manual WB.pdf"", ""creator"": ""Microsoft® Word 2010"", ""moddate"": ""2019-02-24T18:57:27+08:00"", ""producer"": ""Microsoft® Word 2010"", ""page_label"": ""44"", ""total_pages"": 63, ""creationdate"": ""2019-02-24T18:57:27+08:00""}, ""page_content"": ""I take refuge in You from the evil of which I committed \nأَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  \nI acknowledge Your favor upon me and I acknowledge my sin \nفَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ\nSo forgive me, for verily none can forgive sins except You. \nلَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  \nNone has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they \nassociate with You). Truly, I have been of the wrong-doers. \n \n2) Review experience with Contemplative Prayer \n \n3) Examine Weekly Mood Rating: \nUsing a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best \nyou've ever felt, what was your mood like on average this week?""}, {""id"": ""0fe3fcae-1875-4756-9df0-29951d5c48a7"", ""type"": ""Document"", ""metadata"": {""page"": 14, ""author"": ""Jesper Guhle"", ""source"": ""data/kb/MHPSS Vocabulary in Arabic.pdf"", ""creator"": ""Microsoft® Word for Microsoft 365"", ""moddate"": ""2023-05-30T13:14:19+02:00"", ""producer"": ""Microsoft® Word for Microsoft 365"", ""page_label"": ""15"", ""total_pages"": 17, ""creationdate"": ""2023-05-30T13:14:19+02:00""}, ""page_content"": ""Stimulate يحفز تحريض  \nStrengthen social support تعزيز الدعم الاجتما   \nStrengths القوه نقاط القوة  \nStress الاجهاد النفس الضغط النفس   \nStress management ادارة الإجهاد إدارة الضغط النفس   \nStressors الضغوطات عوامل ضاغطة   \nStroke السكته الدماغية سكتة \nStructured  منظم   \nSubstance use  استعمال مواد سوء استخدام المادة \nSuicidal thoughts أفكار انتحاريه   \nSuicidality انتحاري مرتبط بالانتحار  \nSuicide الانتحار   \nSuicide prevention  منع الانتحار الوقاية من الانتحار  \nSupport groups مجموعات الدعم   \nSurvivor الناجّ   \nSurvivor guilt ذنب الناجّ   \nSustainability الاستدامة الديمومة  \nSympathy الشفقه العطف \nSymptoms أعراض   \nSyndrome متلازمة   \nSystematic نظام منهجّ""}, {""id"": ""8ede4525-21dd-478a-b5b1-40d5146e42d5"", ""type"": ""Document"", ""metadata"": {""page"": 2, ""author"": ""Jesper Guhle"", ""source"": ""data/kb/MHPSS Vocabulary in Arabic.pdf"", ""creator"": ""Microsoft® Word for Microsoft 365"", ""moddate"": ""2023-05-30T13:14:19+02:00"", ""producer"": ""Microsoft® Word for Microsoft 365"", ""page_label"": ""3"", ""total_pages"": 17, ""creationdate"": ""2023-05-30T13:14:19+02:00""}, ""page_content"": ""3 \n \n \nA \nENGLISH ARABIC   \nTERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS \nAbilities قدرات طاقات    Ability قدرة \nAbnormal  غير سوي  غير معتاد  شاذ      غير طبيع     \nAbuse إساءة سوء        \nAcceptance تقبّل قبول استحسان      \nAccess وصول مدخل        \nAccompanied مصحوب ب         \nAccountability مساءلة         \nAccused متهم مدعى عليه        \nActive  نشط فعال        \nAcknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    \nActive learning تعلم نشط تعلم فعّال        \nActive listening استماع نشط إصغاء فعّال        \nActivities أنشطة نشاط        \nAdaptation تكيّف تكييف تعديل      \nAdapted مكيّف معدّل  يتلائم      \nAddress يلبّّ يعالج  يخاطب  يعنون     \nAdherence إليرزام إخلاص        \nAdolescence مراهقة         \nAdolescents مراهقون         \nAdopted متببزّ متّخذ  مُقرّ      \nAdults راشدون بالغون    Adult راشد-بالغ  \nAdversity   ضزّاء  محنة      \nAdvocacy مناضة تأييد        \nAffected متأثر متضزر        \nAffiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- \nارتباط""}]",,,,,,,,,,,,,retrieve:b28f684c-279d-9ce5-8f03-78ffa907681a,"[""base""]",retrieve:b28f684c-279d-9ce5-8f03-78ffa907681a,retrieve,"[""__pregel_pull"", ""retrieve""]",1,"[""branch:to:retrieve""]",OpenAIEmbeddings,,,,vectorstore,2,,Chroma,ae1bfb0-dirty
+,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,,"joy, relief, approval",,,Expressing feelings or stress,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,,,,,"[""base""]",retrieve:b28f684c-279d-9ce5-8f03-78ffa907681a,retrieve,"[""__pregel_pull"", ""retrieve""]",1,"[""branch:to:retrieve""]",,,,,,1,,,ae1bfb0-dirty
+,,Medium Risk,"joy, relief, approval",,Expressing feelings or stress,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",,,"I take refuge in You from the evil of which I committed 
+أَب  َْء ْلَكَْبِنِعْمَتِكَْعَلَََّّْوَأَب  َْء ْبِذَنْبِِْ  
+I acknowledge Your favor upon me and I acknowledge my sin 
+فَاغْفِرْلِِْفَإِنَّه ْلَْي َغْفِر ْالذُّن  َْبَْإِلَّْأَنْتَْ ْ
+So forgive me, for verily none can forgive sins except You. 
+لَْإِلَ هَْإِلَّْأَنْتَْس بْحَانَكَْإِنِِّّْك نْت ْمِنَْالظَّالِمِيَْْ  
+None has the right to be worshipped but You (O Allah)), Glorified (and Exalted) are You (above all that (evil) they 
+associate with You). Truly, I have been of the wrong-doers. 
+ 
+2) Review experience with Contemplative Prayer 
+ 
+3) Examine Weekly Mood Rating: 
+Using a scale ranging from 0 to 10, where 0 is the worst that you’ve ever felt in your life and 10 is the best 
+you've ever felt, what was your mood like on average this week?
+Stimulate يحفز تحريض  
+Strengthen social support تعزيز الدعم الاجتما   
+Strengths القوه نقاط القوة  
+Stress الاجهاد النفس الضغط النفس   
+Stress management ادارة الإجهاد إدارة الضغط النفس   
+Stressors الضغوطات عوامل ضاغطة   
+Stroke السكته الدماغية سكتة 
+Structured  منظم   
+Substance use  استعمال مواد سوء استخدام المادة 
+Suicidal thoughts أفكار انتحاريه   
+Suicidality انتحاري مرتبط بالانتحار  
+Suicide الانتحار   
+Suicide prevention  منع الانتحار الوقاية من الانتحار  
+Support groups مجموعات الدعم   
+Survivor الناجّ   
+Survivor guilt ذنب الناجّ   
+Sustainability الاستدامة الديمومة  
+Sympathy الشفقه العطف 
+Symptoms أعراض   
+Syndrome متلازمة   
+Systematic نظام منهجّ
+3 
+ 
+ 
+A 
+ENGLISH ARABIC   
+TERMINOLOGIES OPTION 1 OPTION 2 OPTION 3 MORE OPTIONS 
+Abilities قدرات طاقات    Ability قدرة 
+Abnormal  غير سوي  غير معتاد  شاذ      غير طبيع     
+Abuse إساءة سوء        
+Acceptance تقبّل قبول استحسان      
+Access وصول مدخل        
+Accompanied مصحوب ب         
+Accountability مساءلة         
+Accused متهم مدعى عليه        
+Active  نشط فعال        
+Acknowledge يقرّ يعيرف  يعيّّ عن شكره ل  يسلّم بصحة ش  ء    
+Active learning تعلم نشط تعلم فعّال        
+Active listening استماع نشط إصغاء فعّال        
+Activities أنشطة نشاط        
+Adaptation تكيّف تكييف تعديل      
+Adapted مكيّف معدّل  يتلائم      
+Address يلبّّ يعالج  يخاطب  يعنون     
+Adherence إليرزام إخلاص        
+Adolescence مراهقة         
+Adolescents مراهقون         
+Adopted متببزّ متّخذ  مُقرّ      
+Adults راشدون بالغون    Adult راشد-بالغ  
+Adversity   ضزّاء  محنة      
+Advocacy مناضة تأييد        
+Affected متأثر متضزر        
+Affiliated منتم إل منضمّ إل  منتسب إل  Affiliation انتساب-انضمام إل- 
+ارتباط",Medium Risk,,"joy, relief, approval",,,Expressing feelings or stress,,,"مستخدم لي شي وايد قوي اليوم انا ضاية وما اعرف وين اروح احس اني ما اقدر اكمل
+",أنا أفهم إن هذا صعب عليك. لما تحس بضياع، جرب التفكير في شيء واحد إيجابي حصل اليوم، ولو كان بسيط. إذا حسيت إن الوضع يزداد سوءًا، فكر في زيارة متخصص يساعدك. تواصل مع مستشفى المسارة على 2487 3268 للحصول على الدعم المناسب.,,,,1.0,,"[""base""]",,,,,,,,,,,0,,,ae1bfb0-dirty
