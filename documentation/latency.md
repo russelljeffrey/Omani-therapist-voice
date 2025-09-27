@@ -19,3 +19,21 @@ You can access detailed reports via the LangSmith dashboard:
 - **Latency Monitoring:** Identify bottlenecks in STT, RAG retrieval, or LLM response generation.  
 - **Traceability:** Full workflow visualization for debugging and compliance.  
 - **Accountability:** Ensures the system meets the response-time requirements for mental health interventions.
+
+---
+## How to Use
+
+- LangSmith web UI: After clicking on the link, go to the Examples tab.
+- Dataset Access: Due to limitations of the LangSmith web UI, we’ve exported the full run details to a CSV file, available in this repository:
+  - 📂 Download Full Run Details (CSV).
+  - Path: /data/langsmith-elile-bot-runs-2025-09-27.csv (relative to this repo’s root).
+
+
+
+
+
+📂 Download Full Run Details (CSV)
+
+
+
+Path: /data/langsmith-elile-bot-runs-2025-09-27.csv (relative to this repo’s root).
