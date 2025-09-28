@@ -1,9 +1,3 @@
-
----
-
-### `documentation/future_roadmap.md`
-
-```markdown
 # Future Roadmap
 
 This document outlines the **future directions** of the OMANI Chatbot project, acknowledging current limitations and proposing solutions for scaling, safety, and usability.
