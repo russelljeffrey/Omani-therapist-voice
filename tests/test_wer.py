@@ -15,8 +15,8 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S"
 )
 
-AUDIO_DIR = "audio_samples"
-TRANSCRIPT_DIR = "transcripts"
+AUDIO_DIR = "tests/audio_samples" 
+TRANSCRIPT_DIR = "tests/transcripts"
 
 def transcribe_audio(audio_data, reference_text):
     """Transcribe audio using OpenAI's Whisper model with language detection based on reference."""
