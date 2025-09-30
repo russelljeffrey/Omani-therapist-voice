@@ -76,6 +76,7 @@ See the `documentation/` folder for:
 * `safety_protocol.md` → Safety design
 * `future_roadmap.md` → Planned improvements
 * `wer_report.md` → Performance metrics
+* `testing_instructions.md` → Instructions for testing
 
 ---
 
