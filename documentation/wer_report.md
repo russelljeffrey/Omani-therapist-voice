@@ -1,7 +1,7 @@
 # Word Error Rate (WER) Report
 ---
-This document presents the **Word Error Rate (WER)** evaluation results for the speech-to-text pipeline. We carried out five separate WER tests.
-The evaluation yielded the following results:
+## This document presents the **Word Error Rate (WER)** evaluation results for the speech-to-text pipeline. We carried out five separate WER tests.
+## The evaluation yielded the following results:
 ---
 
 - WER for audio_sample_1.wav vs transcript1.txt: 0.0940
